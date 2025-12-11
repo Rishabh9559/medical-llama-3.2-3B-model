@@ -1,0 +1,20 @@
+Total Records: 13398
+Unique Medical Titles: 1742
+Unique Section Names: 15
+
+Section Names:
+- Definition
+- Purpose
+- Precautions
+- Description
+- Preparation
+- Aftercare
+- Risks
+- Normal results
+- Abnormal results
+- Resources
+- Causes and symptoms
+- Diagnosis
+- Treatment
+- Prognosis
+- Prevention

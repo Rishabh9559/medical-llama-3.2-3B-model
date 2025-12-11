@@ -1,0 +1,17 @@
+NVIDIA A100-SXM4-40GB
+1 GPU
+40 GB VRAM
+Supports BF16
+CUDA 12.8
+
+
+CPU
+30 GB system RAM
+CPU core 24–48 cores
+
+
+software environment
+PyTorch 2.9.1 + cu128
+Transformers 4.56.2
+Unsloth 2025.11.6
+Triton 3.5.1
